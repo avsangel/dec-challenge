@@ -1,0 +1,97 @@
+h1 {
+  font-family: "Macondo", cursive;
+  color: brown;
+  text-align: center;
+  font-weight: 900;
+}
+img {
+  width: 600px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 7px;
+}
+button {
+  font-family: "Macondo", cursive;
+  background-color: brown;
+  display: block;
+  color: burlywood;
+  font-size: 18px;
+  padding: 30px 40px 30px 40px;
+  margin: 0 auto;
+  border: 10px, transparent;
+  border-radius: 20px;
+  box-shadow: 3px 3px 3px 3px;
+  transition: 2;
+}
+button:hover {
+  background-image: url("https://himalayasingh.github.io/button-hover-effect-1/img/bg.jpg");
+  color: brown;
+  cursor: pointer;
+  transition: 2;
+  opacity: 1;
+}
+ul {
+  font-family: "Macondo", cursive;
+  box-sizing: border-box;
+  display: block;
+  width: 20%;
+  border: 3px solid;
+  border-color: burlywood;
+  border-radius: 10px;
+  list-style: none;
+  margin: auto;
+  text-align: center;
+  padding: 5px 5px 5px 10px;
+  font-size: 20 px;
+}
+li {
+  font-family: "Macondo", cursive;
+  text-align: center;
+}
+h2 {
+  color: burlywood;
+  font-size: 20px;
+  text-align: center;
+  width: 45%;
+  display: block;
+  margin: auto;
+  padding: 5px 5px 5px 10px;
+  font-weight: lighter;
+}
+p {
+  margin: auto;
+  width: 60%;
+  display: block;
+  border-radius: 10px;
+  border: 3px solid;
+  font-family: "Macondo", cursive;
+  color: brown;
+  border-color: burlywood;
+  font-size: 20px;
+  text-align: center;
+  line-height: 1.7;
+}
+
+.series {
+  text-decoration-line: underline;
+  font-weight: bold;
+  color: brown;
+}
+.book {
+  display: block;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  color: brown;
+}
+body {
+  background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
+}
+.creator {
+  background-color: burlywood;
+}
+footer {
+  font-family: "Macondo", cursive;
+  color: brown;
+  text-align: center;
+}
