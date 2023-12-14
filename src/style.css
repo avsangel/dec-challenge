@@ -97,6 +97,7 @@ footer {
 .hardback {
   height: 5px;
   max-width: fit-content;
+  display: block;
 }
 
 body {
