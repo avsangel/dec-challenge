@@ -94,10 +94,14 @@ footer {
   color: brown;
   text-align: center;
 }
-.hardback {
-  height: 5px;
-  max-width: 200px;
-  display: block;
+.container {
+  border: 1px solid black;
+  overflow: hidden;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
 }
 
 body {
