@@ -9,6 +9,7 @@ img {
   display: block;
   margin: 0 auto;
   border-radius: 7px;
+  overflow: hidden;
 }
 button {
   font-family: "Macondo", cursive;
