@@ -42,11 +42,12 @@ ul {
   margin: auto;
   text-align: center;
   padding: 5px 5px 5px 10px;
-  font-size: 20 px;
+  font-size: 25 px;
 }
 li {
   font-family: "Macondo", cursive;
   text-align: center;
+  font-size: 25 px;
 }
 h2 {
   color: burlywood;
