@@ -78,6 +78,7 @@ p {
   text-decoration-line: underline;
   font-weight: bold;
   color: brown;
+  word-wrap: normal;
 }
 .book {
   display: block;
